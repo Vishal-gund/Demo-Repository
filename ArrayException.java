@@ -1,3 +1,5 @@
+// its part of exception 
+
 public class ArrayException{
 	public static void main(String args[]){
 		int arr [] = {1,2,3,4,5};
