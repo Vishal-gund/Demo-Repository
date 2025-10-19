@@ -1,4 +1,7 @@
 /*
+
+this demo program just use **************
+
 Q6. Problem:
  Create a movie playlist using an ArrayList<String>. Perform the following operations:
 Add 8 movies.
